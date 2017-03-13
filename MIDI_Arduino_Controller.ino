@@ -1,3 +1,7 @@
+#include <frequencyToNote.h>
+#include <MIDIUSB.h>
+#include <pitchToNote.h>
+
 /*
    Codigo que se encarga de recibir informacion desde knobs a los pines analogos
    y desde botones arcade push a los digitales, despues envia esa informacion a travez
